@@ -30,8 +30,9 @@ To control the brightness of an LED using a potentiometer and measure the electr
 **Power Supply → Potentiometer → Resistor → LED → Ground**
 
 The potentiometer is used to vary the resistance and control the LED brightness.
+## **Stimulation**
 
-![][image1]
+![](stimulation.jpg)
 
 ## **5\. Working**
 
@@ -41,8 +42,9 @@ When the potentiometer knob is rotated, its resistance changes. This changes the
 * Lower resistance → Higher current → LED becomes brighter.
 
 The multimeter is used to measure voltage and resistance and to check the continuity of the circuit.
+## **Result**
 
-![][image2]
+![](result.jpg)
 
 ## **6\. Methodology** 
 
